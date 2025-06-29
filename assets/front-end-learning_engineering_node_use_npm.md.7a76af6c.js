@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as t}from"./app.6b73df09.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front-end-learning/engineering/node/use/npm.md"}'),r={name:"front-end-learning/engineering/node/use/npm.md"};function a(o,s,c,i,p,d){return t(),n("div")}const f=e(r,[["render",a]]);export{_ as __pageData,f as default};
